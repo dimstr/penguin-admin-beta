@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dimstr.github.io/penguin-admin-beta/static/css/main.839b67a1.css",
-    "main.js": "/dimstr.github.io/penguin-admin-beta/static/js/main.29da9a01.js",
-    "index.html": "/dimstr.github.io/penguin-admin-beta/index.html",
-    "main.839b67a1.css.map": "/dimstr.github.io/penguin-admin-beta/static/css/main.839b67a1.css.map",
-    "main.29da9a01.js.map": "/dimstr.github.io/penguin-admin-beta/static/js/main.29da9a01.js.map"
+    "main.css": "/penguin-admin-beta/static/css/main.839b67a1.css",
+    "main.js": "/penguin-admin-beta/static/js/main.29da9a01.js",
+    "index.html": "/penguin-admin-beta/index.html",
+    "main.839b67a1.css.map": "/penguin-admin-beta/static/css/main.839b67a1.css.map",
+    "main.29da9a01.js.map": "/penguin-admin-beta/static/js/main.29da9a01.js.map"
   },
   "entrypoints": [
     "static/css/main.839b67a1.css",
