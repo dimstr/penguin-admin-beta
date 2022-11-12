@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/penguin-admin-beta/static/css/main.93978ffa.css",
-    "main.js": "/penguin-admin-beta/static/js/main.5a47f238.js",
+    "main.js": "/penguin-admin-beta/static/js/main.76dd48b3.js",
     "index.html": "/penguin-admin-beta/index.html",
     "main.93978ffa.css.map": "/penguin-admin-beta/static/css/main.93978ffa.css.map",
-    "main.5a47f238.js.map": "/penguin-admin-beta/static/js/main.5a47f238.js.map"
+    "main.76dd48b3.js.map": "/penguin-admin-beta/static/js/main.76dd48b3.js.map"
   },
   "entrypoints": [
     "static/css/main.93978ffa.css",
-    "static/js/main.5a47f238.js"
+    "static/js/main.76dd48b3.js"
   ]
 }
